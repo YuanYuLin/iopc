@@ -4,3 +4,6 @@
 [submodule "buildcfgs"]
 	path = buildcfgs
 	url = git@github.com:YuanYuLin/iopcbscfg.git
+[submodule "packages_buildroot"]
+	path = packages_buildroot
+	url = git@github.com:YuanYuLin/PackageCfgs.git
