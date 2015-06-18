@@ -1,3 +1,6 @@
 [submodule "buildscripts"]
 	path = buildscripts
 	url = git@github.com:YuanYuLin/iopcbs.git
+[submodule "buildcfgs"]
+	path = buildcfgs
+	url = git@github.com:YuanYuLin/iopcbscfg.git
