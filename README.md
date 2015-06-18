@@ -9,9 +9,13 @@ IOT platform as a container.
 - build steps:
   * usage:
      ./buildscripts/build_system.py [buildroot] [project config] [output_name] [action]
+
   * show help: 
       ./buildscripts/build_system.py buildsystem/buildroot-2014.11 buildcfgs/ArmV6/RaspberryPi/bsp/project_configs.ini RaspberryBSP HELP
+
   * show menuconfig:
       ./buildscripts/build_system.py buildsystem/buildroot-2014.11 buildcfgs/ArmV6/RaspberryPi/bsp/project_configs.ini RaspberryBSP MENUCONFIG
+
   * build project
       ./buildscripts/build_system.py buildsystem/buildroot-2014.11 buildcfgs/ArmV6/RaspberryPi/bsp/project_configs.ini RaspberryBSP BUILD_PROJECT
+
